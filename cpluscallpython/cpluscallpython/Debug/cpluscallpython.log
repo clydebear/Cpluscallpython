@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\python27\include\pymath.h(22): warning C4273: “round”: dll 链接不一致
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(521): note: 参见“round”的前一个定义
+e:\program files (x86)\microsoft visual studio 14.0\vc\include\xtgmath.h(208): warning C4273: “round”: dll 链接不一致
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(521): note: 参见“round”的前一个定义
+  cpluscallpython.vcxproj -> D:\github\Cpluscallpython\cpluscallpython\Debug\cpluscallpython.exe
